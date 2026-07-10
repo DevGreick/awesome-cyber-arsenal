@@ -120,6 +120,7 @@ Curated by [DevGreick](https://github.com/DevGreick)
 | [Cobalt Strike](https://www.cobaltstrike.com/) | Commercial adversary simulation and red team operations | 🟢 💰 | [Website](https://www.cobaltstrike.com/) |
 | [Havoc](https://github.com/HavocFramework/Havoc) | Modern and malleable post-exploitation C2 framework | 🟡 🆓 | [GitHub](https://github.com/HavocFramework/Havoc) |
 | [Metasploit](https://www.metasploit.com/) | The most widely used penetration testing framework | 🟢 ⭐ 🆓 | [GitHub](https://github.com/rapid7/metasploit-framework) |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI pentest platform and MCP host; per-technology offensive sub-agents, Active Directory and Kubernetes coverage, 80+ orchestrated tools, local 14B LLM | 🟡 🆓 | [GitHub](https://github.com/ASCIT31/Dark-Moon) |
 | [Sliver](https://github.com/BishopFox/sliver) | Open source cross-platform C2 framework | 🟢 ⭐ 🆓 | [GitHub](https://github.com/BishopFox/sliver) |
 
 ### Post-Exploitation
