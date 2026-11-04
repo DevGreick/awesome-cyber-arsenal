@@ -2,7 +2,6 @@
 
 <img src="public/banner.svg" alt="awesome-cyber-arsenal" width="700">
 
-# awesome-cyber-arsenal
 
 A curated list of awesome cybersecurity tools, frameworks, and resources across offensive, defensive, CTI, and DevSecOps domains.
 
@@ -229,7 +228,7 @@ Curated by [DevGreick](https://github.com/DevGreick)
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | Analyze files, domains, IPs via multiple sources at once | 🟢 🆓 | [GitHub](https://github.com/intelowlproject/IntelOwl) |
 | [MISP](https://www.misp-project.org/) | Open source threat intelligence and sharing platform | 🟢 ⭐ 🆓 | [GitHub](https://github.com/MISP/MISP) |
 | [OpenCTI](https://www.opencti.io/) | Open source platform for cyber threat intelligence management | 🟢 ⭐ 🆓 | [GitHub](https://github.com/OpenCTI-Platform/opencti) |
-| [ThreatDeflect](https://github.com/DevGreick/ThreatDeflect) | Hybrid Python+Rust IOC analysis with local AI guardrails and GUI | 🟡 ⭐ 🆓 | [GitHub](https://github.com/DevGreick/ThreatDeflect) |
+| [ThreatDeflect](https://github.com/DevGreick/ThreatDeflect) | Hybrid Python+Rust IOC analysis with local AI guardrails and GUI (maintainer's project) | 🟡 ⭐ 🆓 | [GitHub](https://github.com/DevGreick/ThreatDeflect) |
 
 ### Threat Hunting
 
