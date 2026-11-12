@@ -434,6 +434,7 @@ Curated by [DevGreick](https://github.com/DevGreick)
 | Name | Description | Maturity | Link |
 |------|-------------|----------|------|
 | [Chainloop](https://chainloop.dev/) | Evidence store and policy engine for supply chain attestations | 🟢 🆓 | [GitHub](https://github.com/chainloop-dev/chainloop) |
+| [npm-install-audit](https://www.npmjs.com/package/npm-install-audit) | Checks an untrusted Node.js repo before npm install for install hooks, git hooks and risky .npmrc | 🟡 🆓 | [GitHub](https://github.com/cryptostrapon/npm-install-audit) |
 | [Socket](https://socket.dev/) | Detect malicious behavior in open source packages at runtime | 🟢 💎 | [Website](https://socket.dev/) |
 
 ---
