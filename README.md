@@ -169,6 +169,7 @@ Curated by [DevGreick](https://github.com/DevGreick)
 | [Grafana Loki](https://grafana.com/oss/loki/) | Horizontally scalable multi-tenant log aggregation | 🟢 🆓 | [GitHub](https://github.com/grafana/loki) |
 | [Graylog](https://graylog.org/) | Free and open log management platform | 🟢 💎 | [GitHub](https://github.com/Graylog2/graylog2-server) |
 | [Wazuh](https://wazuh.com/) | Open source unified XDR and SIEM protection | 🟢 ⭐ 🆓 | [GitHub](https://github.com/wazuh/wazuh) |
+| [Wazuh Alert Manager](https://github.com/xrisbarney/Wazuh-alert-manager) | Wazuh dashboard plugin: alert triage, case management, automation rules, reporting | 🟢 🆓 | [GitHub](https://github.com/xrisbarney/Wazuh-alert-manager) |
 
 ### EDR & XDR
 
